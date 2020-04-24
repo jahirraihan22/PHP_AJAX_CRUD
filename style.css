@@ -1,0 +1,21 @@
+.inp{
+    width: 200px;
+    height: 25px;
+    padding: 10px;
+    margin-right: 10px;
+    border: 2px solid darkgray;
+    border-radius: 10px;
+    float: left;
+}
+.save_btn{
+    width: 100px;
+    height: 40px;
+    background: none;
+    background-color: darkgray;
+    color: black;
+    border: none;
+}
+.info{
+    float: left;
+}
+
